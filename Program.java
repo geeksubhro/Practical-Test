@@ -12,7 +12,7 @@ public class Program {
 	for (int i=x;x<=51;x++)
 		{
 //		Checking Even Numbers
-			if (x%2==0)
+			if (i%2==0)
 				sum+=i;
 		}
 //	Printing The Sum
