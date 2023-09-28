@@ -9,7 +9,7 @@ public class Program {
 //	Here the Sum of Even Numbers is saved
 	int sum=0;
 //	Loop For iterating over All the Numbers
-	for (int i=x;x<=51;x++)
+	for (int i=x;i<=51;i++)
 		{
 //		Checking Even Numbers
 			if (i%2==0)
